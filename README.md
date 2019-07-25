@@ -1,1 +1,9 @@
-# sflink-down
+- How to Install This Program?
+- pkg update
+- pkg upgrade
+- pkg install git
+- pkg install python
+- pip install requests
+- git clone https://github.com/ExGeneralTz/sflink-down
+- cd sfile-down
+- python sfdown.py
