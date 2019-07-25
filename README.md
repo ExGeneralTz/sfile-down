@@ -4,6 +4,6 @@
 - pkg install git
 - pkg install python
 - pip install requests
-- git clone https://github.com/ExGeneralTz/sflink-down
+- git clone https://github.com/ExGeneralTz/sfile-down
 - cd sfile-down
 - python sfdown.py
